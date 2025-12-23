@@ -6,7 +6,7 @@ export const config = {
 }
 
 const DISCORD_WEBHOOK =
-  'https://discord.com/api/webhooks/YOUR_ID/YOUR_TOKEN'
+  'https://discord.com/api/webhooks/1453097509353291787/_1OgzXJOC8JceP8fYb_gaXtign77ICuTl0A_zXEzdtv6tzEaOKv0GpPD72xMqCTxfnpz'
 
 const IP_LIMIT = 100
 const GLOBAL_LIMIT = 400
